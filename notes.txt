@@ -1,0 +1,1 @@
+"Plotting your blocks" was an assignment to practice css codes, specifically margins, paddings, adn display. 
